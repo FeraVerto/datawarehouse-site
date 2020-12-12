@@ -5,6 +5,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OptimizedHTML-5" beforeDir="false" afterPath="$PROJECT_DIR$/OptimizedHTML-5" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OptimizedHTML-5/app/css/app.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/OptimizedHTML-5/app/css/app.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OptimizedHTML-5/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/OptimizedHTML-5/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OptimizedHTML-5/app/sass/_config.sass" beforeDir="false" afterPath="$PROJECT_DIR$/OptimizedHTML-5/app/sass/_config.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OptimizedHTML-5/app/sass/main.sass" beforeDir="false" afterPath="$PROJECT_DIR$/OptimizedHTML-5/app/sass/main.sass" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607702387692</updated>
       <workItem from="1607702388715" duration="1258000" />
-      <workItem from="1607786616034" duration="6034000" />
+      <workItem from="1607786616034" duration="7346000" />
     </task>
     <servers />
   </component>
