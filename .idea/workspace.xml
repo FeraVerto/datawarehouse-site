@@ -5,11 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OptimizedHTML-5" beforeDir="false" afterPath="$PROJECT_DIR$/OptimizedHTML-5" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OptimizedHTML-5/app/css/app.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/OptimizedHTML-5/app/css/app.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OptimizedHTML-5/app/images/src/image2 .png" beforeDir="false" afterPath="$PROJECT_DIR$/OptimizedHTML-5/app/images/src/image2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OptimizedHTML-5/app/images/src/image3 1.png" beforeDir="false" afterPath="$PROJECT_DIR$/OptimizedHTML-5/app/images/src/features-item-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OptimizedHTML-5/app/images/src/image4.png" beforeDir="false" afterPath="$PROJECT_DIR$/OptimizedHTML-5/app/images/src/24hours.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OptimizedHTML-5/app/images/src/image5 1.png" beforeDir="false" afterPath="$PROJECT_DIR$/OptimizedHTML-5/app/images/src/features-item-print.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OptimizedHTML-5/app/images/src/image6 1.png" beforeDir="false" afterPath="$PROJECT_DIR$/OptimizedHTML-5/app/images/src/features-item-security.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OptimizedHTML-5/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/OptimizedHTML-5/app/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OptimizedHTML-5/app/sass/main.sass" beforeDir="false" afterPath="$PROJECT_DIR$/OptimizedHTML-5/app/sass/main.sass" afterDir="false" />
     </list>
@@ -52,7 +47,10 @@
       <workItem from="1607702388715" duration="1258000" />
       <workItem from="1607786616034" duration="7964000" />
       <workItem from="1607868486429" duration="15637000" />
-      <workItem from="1608110650502" duration="2656000" />
+      <workItem from="1608110650502" duration="2896000" />
+      <workItem from="1608211629356" duration="5196000" />
+      <workItem from="1608479187827" duration="2100000" />
+      <workItem from="1609257084254" duration="3753000" />
     </task>
     <servers />
   </component>
@@ -60,10 +58,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="300" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607796248899">
+    <state x="300" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608211658456">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="300" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1607796248899" />
+    <state x="300" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1608211658456" />
     <state x="420" y="271" key="EditFileWatcherDialog" timestamp="1607787436444">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -84,5 +82,9 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1654" height="280" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1607703975679" />
+    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup" timestamp="1608217511246">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1608217511246" />
   </component>
 </project>
